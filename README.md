@@ -12,7 +12,7 @@ All Questions are from codility.com
 	*	NumberOfDiscIntersections
 5. ~~Lesson 5~~
 6. ~~Lesson 6~~
-7. Lesson 7
+7. ~~Lesson 7~~
 8. Lesson 8
 9. Lesson 9
 10. Lesson 10
