@@ -1,0 +1,5 @@
+#!/bin/bash
+for args in $@
+do
+        touch $args.java $args.task
+done

@@ -11,7 +11,7 @@ All Questions are from codility.com
 4. ~~Lesson 4~~
 	*	NumberOfDiscIntersections
 5. ~~Lesson 5~~
-6. Lesson 6
+6. ~~Lesson 6~~
 7. Lesson 7
 8. Lesson 8
 9. Lesson 9
